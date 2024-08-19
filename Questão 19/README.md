@@ -1,0 +1,1 @@
+# 19. Escreva uma função que aceite uma string como parâmetro e encontre a palavra mais longa dentro da string. String de exemplo: 'Tutorial de desenvolvimento da web'. Resultado esperado: 'Desenvolvimento'. 

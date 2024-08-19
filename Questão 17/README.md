@@ -1,0 +1,1 @@
+# 17. Crie uma função chamada "verificarPropriedade" que receba um objeto e uma string como parâmetros, e retorne true se o objeto possuir a propriedade com o nome especificado na string, e false caso contrário. 
